@@ -3,13 +3,13 @@
 
 This is a real-time chat application built using ReactJS and Firebase. It allows users to create an account, join chat rooms, and send/receive messages in real time.
 
-The [official website](#)
+[This is the official website](#) 
 
 ## Features
 
 - Real-time messaging
 - User authentication (Sign-up, Login)
-- Create and join chat rooms
+- Create and chat with friends
 - Firebase Firestore for storing messages
 - Firebase Authentication for user management
 
@@ -26,7 +26,7 @@ The [official website](#)
 ## Usage
 
 1. Sign up or log in with your email and password.
-2. Create or join an existing chat room.
+2. Start conversations with existing users
 3. Start chatting with other users in real time!
 
 ## Contributing
