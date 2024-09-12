@@ -3,7 +3,7 @@
 
 This is a real-time chat application built using ReactJS and Firebase. It allows users to create an account, join chat rooms, and send/receive messages in real time.
 
-[This is the official website](#) 
+[This is the official website](https://butcherchat.netlify.app/) 
 
 ## Features
 
